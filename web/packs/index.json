@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "hasbulla.json"
+  ],
+  "homeserver_url": "https://matrix.talka.chat"
+}
