@@ -1,6 +1,10 @@
 {
   "packs": [
-    "hasbulla.json"
+    "hasbulla.json",
+    "OfficeTV.json",
+    "Nupeppo.json",
+    "Pascu01.json",
+    "NorthKoreaKim.json"
   ],
   "homeserver_url": "https://matrix.talka.chat"
 }
